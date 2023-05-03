@@ -24,5 +24,5 @@ No terminal, execute o seguinte comando:
 ```
 python perceptron.py
 ```
-
-> ⚠️ Aviso: A versão Python utiliza foi 3.10. Versões anteriores podem gerar erros
+> **Warning**
+> A versão Python utiliza foi 3.10. Versões anteriores podem gerar erros
